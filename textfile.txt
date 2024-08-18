@@ -1,2 +1,6 @@
 remote file
+<<<<<<< HEAD
 dummy branch added.
+=======
+dummy 2.
+>>>>>>> dummy
